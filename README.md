@@ -8,7 +8,7 @@ Each day, I complete and upload a small project related to Python
 │── Day1----Band Name Generator                                                                                                                                       
 │── Day2----Tip calculator                                                                                                                                            
 │── Day3----Treasure Island                                                                                                                                                           
-│── 
+│── Day4----Rock, Paper, Scissors Game                                                                                                                                                                            
 │── 
 │── 
 │── 
