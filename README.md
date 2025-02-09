@@ -9,7 +9,7 @@ Each day, I complete and upload a small project related to Python
 │── Day2----Tip calculator                                                                                                                                            
 │── Day3----Treasure Island                                                                                                                                                           
 │── Day4----Rock, Paper, Scissors Game                                                                                                                                                                            
-│── 
+│── Day5----Password Generator                                                                                                                                                                                      
 │── 
 │── 
 │── 
