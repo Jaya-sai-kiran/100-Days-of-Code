@@ -10,7 +10,7 @@ Each day, I complete and upload a small project related to Python
 │── Day3----Treasure Island                                                                                                                                                           
 │── Day4----Rock, Paper, Scissors Game                                                                                                                                                                            
 │── Day5----Password Generator                                                                                                                                                                                      
-│── 
+│── Day6----Reeborg World games on Functions                                                                                                                                                                           
 │── 
 │── 
 │── 
