@@ -12,7 +12,7 @@ Each day, I complete and upload a small project related to Python
 │── Day05 ---- Password Generator                                                                                                                                                                                      
 │── Day06 ---- Reeborg World Games on Functions                                                                                                                                                                        
 │── Day07 ---- Hangman Game                                                                                                                                                                                            
-│── Day08 ---- Caesar cipher
+│── Day08 ---- Caesar cipher                                                                                                                                                                                     
 │── Day09 ----
 │── Day10 ----
 │── Day11 ----
