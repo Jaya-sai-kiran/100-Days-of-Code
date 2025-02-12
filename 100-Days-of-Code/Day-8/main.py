@@ -1,4 +1,4 @@
-#Caesar cipher
+#Caesar Cipher
 import art
 
 print(art.logo)
