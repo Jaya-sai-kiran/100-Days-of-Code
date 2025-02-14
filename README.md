@@ -14,7 +14,7 @@ Each day, I complete and upload a small project related to Python
 │── Day07 ---- Hangman Game                                                                                                                                                                                            
 │── Day08 ---- Caesar cipher                                                                                                                                                                                     
 │── Day09 ---- Blind Auction project                                                                                                                                                                                
-│── Day10 ----
+│── Day10 ---- Calculator Project                                                                                                                                                                                   
 │── Day11 ----
 │── Day12 ----
 │── Day13 ----
