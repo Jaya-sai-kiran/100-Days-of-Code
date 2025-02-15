@@ -15,7 +15,7 @@ Each day, I complete and upload a small project related to Python
 │── Day08 ---- Caesar cipher                                                                                                                                                                                     
 │── Day09 ---- Blind Auction project                                                                                                                                                                                
 │── Day10 ---- Calculator Project                                                                                                                                                                                   
-│── Day11 ----
+│── Day11 ---- Blackjack Game                                                                                                                                                                                       
 │── Day12 ----
 │── Day13 ----
 │── README.md
