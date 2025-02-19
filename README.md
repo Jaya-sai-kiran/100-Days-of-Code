@@ -19,6 +19,6 @@ Each day, I complete and upload a small project related to Python
 │── Day12 ---- Number Guessing game                                                                                                                                                                                  
 │── Day13 ---- Debugging                                                                                                                                                                                              
 │── Day14 ---- Higher Lower Game                                                                                                                                                                                    
-│── Day15 ----
+│── Day15 ---- Coffee Machine                                                                                                                                                                                        
 │── Day16 ----
 │── README.md
