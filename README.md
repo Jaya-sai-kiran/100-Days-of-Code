@@ -18,7 +18,7 @@ Each day, I complete and upload a small project related to Python
 │── Day11 ---- Blackjack Game                                                                                                                                                                                       
 │── Day12 ---- Number Guessing game                                                                                                                                                                                  
 │── Day13 ---- Debugging                                                                                                                                                                                              
-│── Day14 ----
+│── Day14 ---- Higher Lower Game                                                                                                                                                                                    
 │── Day15 ----
 │── Day16 ----
 │── README.md
