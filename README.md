@@ -21,7 +21,7 @@ Each day, I complete and upload a small project related to Python
 │── Day14 ---- Higher Lower Game                                                                                                                                                                                    
 │── Day15 ---- Coffee Machine                                                                                                                                                                                        
 │── Day16 ---- Coffee Machine using OOPs                                                                                                                                                                           
-│── Day17 ---- Quiz Game
+│── Day17 ---- Quiz Game                                                                                                                                                                                          
 │── Day18 ---- 
 │── Day19 ---- 
 │── Day20 ---- 
