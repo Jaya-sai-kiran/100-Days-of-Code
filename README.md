@@ -9,16 +9,22 @@ Each day, I complete and upload a small project related to Python
 │── Day02 ---- Tip calculator                                                                                                                                            
 │── Day03 ---- Treasure Island                                                                                                                                                           
 │── Day04 ---- Rock, Paper, Scissors Game                                                                                                                                                                            
-│── Day05 ---- Password Generator                                                                                                                                                                                      
-│── Day06 ---- Reeborg World Games on Functions                                                                                                                                                                        
-│── Day07 ---- Hangman Game                                                                                                                                                                                            
-│── Day08 ---- Caesar cipher                                                                                                                                                                                     
-│── Day09 ---- Blind Auction project                                                                                                                                                                                
+│── Day05 ---- Password Generator                                                                                                                                                                                    
+│── Day06 ---- Reeborg World Games on Functions                                                                                                                                                                      
+│── Day07 ---- Hangman Game                                                                                                                                                                                          
+│── Day08 ---- Caesar Cipher                                                                                                                                                                                     
+│── Day09 ---- Blind Auction Project                                                                                                                                                                                
 │── Day10 ---- Calculator Project                                                                                                                                                                                   
 │── Day11 ---- Blackjack Game                                                                                                                                                                                       
-│── Day12 ---- Number Guessing game                                                                                                                                                                                  
-│── Day13 ---- Debugging                                                                                                                                                                                              
+│── Day12 ---- Number Guessing Game                                                                                                                                                                                  
+│── Day13 ---- Debugging                                                                                                                                                                                             
 │── Day14 ---- Higher Lower Game                                                                                                                                                                                    
 │── Day15 ---- Coffee Machine                                                                                                                                                                                        
-│── Day16 ---- Coffee Machine using OOPs                                                                                                                                                                             
+│── Day16 ---- Coffee Machine using OOPs                                                                                                                                                                           
+│── Day17 ---- Quiz Game                                                                                                                                                                                          
+│── Day18 ---- 
+│── Day19 ---- 
+│── Day20 ---- 
+│── Day21 ---- 
+│── Day22 ---- 
 │── README.md
