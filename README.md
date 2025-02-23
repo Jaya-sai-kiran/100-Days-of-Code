@@ -22,7 +22,7 @@ Each day, I complete and upload a small project related to Python
 │── Day15 ---- Coffee Machine                                                                                                                                                                                        
 │── Day16 ---- Coffee Machine using OOPs                                                                                                                                                                           
 │── Day17 ---- Quiz Game                                                                                                                                                                                          
-│── Day18 ---- 
+│── Day18 ---- Hirst Painting                                                                                                                                                                                      
 │── Day19 ---- 
 │── Day20 ---- 
 │── Day21 ---- 
