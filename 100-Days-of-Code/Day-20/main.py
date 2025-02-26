@@ -1,4 +1,4 @@
-#Snake game-->Initial Part
+#Snake game--->Initial Part
 from snake import Snake,My_screen
 
 My_screen.setup(width=600,height=600)
