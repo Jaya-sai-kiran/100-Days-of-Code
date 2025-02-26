@@ -24,7 +24,7 @@ Each day, I complete and upload a small project related to Python
 │── Day17 ---- Quiz Game                                                                                                                                                                                          
 │── Day18 ---- Hirst Painting                                                                                                                                                                                      
 │── Day19 ---- Turtle race                                                                                                                                                                                          
-│── Day20 ---- Snake game-->Initial Part                                                                                                                                                                           
+│── Day20 ---- Snake game--->Initial Part                                                                                                                                                                           
 │── Day21 ---- 
 │── Day22 ---- 
 │── Day23 ---- 
