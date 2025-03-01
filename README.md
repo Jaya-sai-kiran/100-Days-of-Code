@@ -26,6 +26,6 @@ Each day, I complete and upload a small project related to Python
 │── Day19 ---- Turtle race                                                                                                                                                                                          
 │── Day20 ---- Snake game--->Initial Part                                                                                                                                                                           
 │── Day21 ---- Snake game--->Final Part                                                                                                                                                                              
-│── Day22 ---- 
+│── Day22 ---- Pong Game                                                                                                                                                                                            
 │── Day23 ---- 
 │── README.md
