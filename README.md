@@ -28,7 +28,7 @@ Each day, I complete and upload a small project related to Python
 │── Day21 ---- Snake game--->Final Part                                                                                                                                                                              
 │── Day22 ---- Pong Game                                                                                                                                                                                            
 │── Day23 ---- Turtle Crossing Game                                                                                                                                                                                  
-│── Day24 ---- 
+│── Day24 ---- Mail Merge Project                                                                                                                                                                                  
 │── Day25 ---- 
 │── Day26 ---- 
 │── Day27 ---- 
