@@ -29,7 +29,7 @@ Each day, I complete and upload a small project related to Python
 │── Day22 ---- Pong Game                                                                                                                                                                                            
 │── Day23 ---- Turtle Crossing Game                                                                                                                                                                                  
 │── Day24 ---- Mail Merge Project                                                                                                                                                                                  
-│── Day25 ---- 
+│── Day25 ----                                                                                                                                                                            
 │── Day26 ---- 
 │── Day27 ---- 
 │── README.md
